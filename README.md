@@ -127,11 +127,10 @@ Currently pursuing an **MCA at Parul University** while freelancing on productio
 
 | Period | Role | Company |
 |--------|------|---------|
-| Jun 2025 – Present | Full-Stack Developer (Remote) | Freelance |
+| Jun 2025 – Apr 2026 | Full-Stack Developer (Remote) | Freelance |
 | Jan 2023 – May 2025 | Full-Stack Developer (Hybrid) | SYDEV (Mauritius) LTD |
-| Sep 2022 – May 2023 | Full-Stack Developer (Remote) | Ark Analytica Ltd |
 | Apr 2022 – Aug 2022 | Web Developer Intern | TotalEnergies, Mauritius |
-| Dec 2020 – Sep 2021 | Junior Developer | Compuco Sàrl, Geneva |
+| Dec 2021 – Apr 2021 | Full-Stack Developer (Remote) | Ark Analytica Ltd |
 
 ---
 
