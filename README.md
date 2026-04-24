@@ -87,8 +87,8 @@ Full-stack cab booking platform with outstation/airport/local ride booking, admi
 ---
 
 ### 🍽️ [Le Gourmet — Restaurant Platform](https://github.com/anmolvishvas/le-gourmet-final)
-> `React` · `TypeScript` · `Tailwind CSS` · `PHP/Symfony` · `MySQL`
-
+> `React` · `TypeScript` · `Tailwind CSS`
+> 
 Responsive restaurant site with brand showcase, menu management, and a kitchen operations admin dashboard — built for a French franchise startup.
 
 ---
