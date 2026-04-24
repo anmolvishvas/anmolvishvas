@@ -87,14 +87,14 @@ Full-stack cab booking platform with outstation/airport/local ride booking, admi
 ---
 
 ### 🍽️ [Le Gourmet — Restaurant Platform](https://github.com/anmolvishvas/le-gourmet-final)
-> `ReactJS` · `TypeScript` · `Tailwind CSS`
+> `React` · `TypeScript` · `Tailwind CSS` · `PHP/Symfony` · `MySQL`
 
 Responsive restaurant site with brand showcase, menu management, and a kitchen operations admin dashboard — built for a French franchise startup.
 
 ---
 
 ### 📅 [Gestion Congé — Leave Management System](https://github.com/anmolvishvas/gestion-conge-app)
-> `React` · `Tailwind CSS` · `PHP/Symfony` · `MySQL`
+> `React` · `TypeScript` · `Tailwind CSS` · `PHP/Symfony` · `MySQL`
 
 Internal HR platform for a French company — approval workflows, email notifications, and centralised attendance tracking.
 
