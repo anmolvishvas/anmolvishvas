@@ -55,16 +55,16 @@ Fluent in 🇬🇧 English · 🇫🇷 French · 🇪🇸 Spanish · 🇮🇳 Hi
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Professional Experience
 
-```
-2021 ──────── AFRINIC (IT Officer, Remote Mauritius)
-2021–2022 ─── Ark Analytica Ltd (Full-Stack Dev, Remote Mauritius)
-2022 ──────── TotalEnergies Intern (Vue.js / Quasar, Mauritius)
-2022–2023 ─── Ark Analytica Ltd (Full-Stack Dev, Remote Mauritius)
-2023–2025 ─── SYDEV (Mauritius) LTD (Full-Stack Dev, Hybrid — 2.5 yrs)
-2025–2026 ─── Freelance (Full-Stack Dev, Remote International — 11 months)
-```
+| Year        | Company                        | Role                     | Location / Mode                  |
+|------------|-------------------------------|--------------------------|----------------------------------|
+| 2021        | AFRINIC                       | IT Officer               | Remote (Mauritius)              |
+| 2021–2022   | Ark Analytica Ltd             | Full-Stack Developer     | Remote (Mauritius)              |
+| 2022        | TotalEnergies                 | Intern (Vue.js / Quasar) | Mauritius                       |
+| 2022–2023   | Ark Analytica Ltd             | Full-Stack Developer     | Remote (Mauritius)              |
+| 2023–2025   | SYDEV (Mauritius) LTD         | Full-Stack Developer     | Hybrid (2.5 years)              |
+| 2025–2026   | Freelance                     | Full-Stack Developer     | Remote (International, 11 mo)   |
 
 **🌍 International clients:** Mauritius · France · India
 
