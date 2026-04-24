@@ -1,157 +1,135 @@
 <div align="center">
 
-<!-- Animated greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anmol+Vishvas+%F0%9F%91%8B;Full-Stack+Software+Engineer;PHP+%C2%B7+Symfony+%C2%B7+React+%C2%B7+TypeScript;Open+to+Remote+%26+Hybrid+Roles" alt="Typing SVG" />
+# 👋 Hey, I'm Anmol Vishvas
 
-<p>
-  <a href="https://www.linkedin.com/in/anmol-vishvas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://anmolvishvas.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:anmol23vishvas@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=anmolvishvas&style=for-the-badge&color=3B82F6" />
-</p>
+### Vue.js & Python Developer · Full-Stack Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolvishvas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmolvishvas)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmol23vishvas@gmail.com)
+[![Location](https://img.shields.io/badge/Vadodara,_India-Remote_Ready-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](mailto:anmol23vishvas@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** based in Vadodara, India, with 4+ years of experience building scalable web applications for international clients across Mauritius, France, and Switzerland. My core stack is **PHP/Symfony** on the backend and **React/TypeScript** on the frontend.
+Full-stack developer with **~4 years of professional experience** specialising in **Vue.js** and **Python**. I've delivered production web applications for international clients across **Mauritius, France, and India** — from ML-powered prediction systems to large-scale product catalog platforms and business management tools.
 
-Currently pursuing an **MCA at Parul University** while freelancing on production-grade web platforms.
-
-- 🔭 &nbsp;**Working on:** A custom business management app for an international client (PHP 8.2 · Symfony 6 · React · Tailwind CSS)
-- 🎓 &nbsp;**Studying:** MCA @ Parul University, India (2025–2027)
-- 🌍 &nbsp;**Open to:** Remote & hybrid opportunities worldwide
-- 🏆 &nbsp;**BSc Hons** in Computer Science — graduated entirely with **1st Class** distinctions
-- 💬 &nbsp;**Ask me about:** Symfony, REST APIs, React, Docker, Elasticsearch
+Fluent in 🇬🇧 English · 🇫🇷 French · 🇪🇸 Spanish · 🇮🇳 Hindi/Gujarati, comfortable in Agile and Waterfall environments, and fully remote-ready.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+### 🟢 Vue.js & Frontend — *3.9 years*
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt 3](https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### 🐍 Python — *2.5 years*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=python&logoColor=white)
 
-**Databases & Search**
-
+### ⚙️ Backend & Databases
+![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony_6-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-**DevOps & Tools**
-
+### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience Timeline
 
-### 🗓 [Gestion Congé App](https://github.com/anmolvishvas/gestion-conge-app) — Employee Leave Management System
-> Built for a French company to manage leave requests, approvals, and attendance through a centralized digital workflow.
+```
+2021 ──────── AFRINIC (IT Officer, Remote Mauritius)
+2021–2022 ─── Ark Analytica Ltd (Full-Stack Dev, Remote Mauritius)
+2022 ──────── TotalEnergies Intern (Vue.js / Quasar, Mauritius)
+2022–2023 ─── Ark Analytica Ltd (Full-Stack Dev, Remote Mauritius)
+2023–2025 ─── SYDEV (Mauritius) LTD (Full-Stack Dev, Hybrid — 2.5 yrs)
+2025–2026 ─── Freelance (Full-Stack Dev, Remote International — 11 months)
+```
 
-`ReactJS` `Tailwind CSS` `PHP Symfony` `MySQL` `Email Integration`
-
-- Role-based access for employees and admins
-- Automated email notifications for request status updates
-- Centralized leave tracking dashboard
-
----
-
-### 🚕 [TripCab](https://github.com/anmolvishvas/TripCab) — Cab Booking Platform
-> Full-stack ride booking system covering outstation trips, airport transfers, and local rides.
-
-`ReactJS` `TypeScript` `Tailwind CSS` `Symfony` `MySQL` `WhatsApp API`
-
-- User-facing booking interface + admin panel
-- WhatsApp & email booking confirmation automation
-- Secure trip and customer data management
+**🌍 International clients:** Mauritius · France · India
 
 ---
 
-### 💼 [Dream Job Forge](https://github.com/anmolvishvas/dream-job-forge) — Job Discovery Platform
-> Full-stack job platform with server-side rendering and dynamic UI components.
+## 🚀 Selected Projects
 
-`Symfony` `PHP` `TypeScript` `ReactJS` `Tailwind CSS` `Twig` `MySQL`
+### 🏥 [Smart Health Prediction System](https://github.com/anmolvishvas/SmartHealthPredictionSystem-FYP)
+> `Python` · `scikit-learn` · `Machine Learning`
 
----
-
-### 🍽 [Le Gourmet](https://github.com/anmolvishvas/le-gourmet-final) — Restaurant Website & Admin System
-> Web platform for a French franchise startup — brand showcase + kitchen operations dashboard.
-
-`ReactJS` `TypeScript` `Tailwind CSS`
+BSc Final Year Project — ML-powered disease risk classifier using supervised learning. Awarded **1st Class Honours**.
 
 ---
 
-### ⚡ [WebCup – The End Page](https://github.com/anmolvishvas/webcup-the-end-page-final) — 24h Hackathon Project
-> Full-stack web application built and shipped in 24 hours during a development competition.
+### 🏖️ [TripCab — Cab Booking Platform](https://tripcab.co.in/)
+> `React` · `TypeScript` · `Tailwind CSS` · `PHP/Symfony` · `MySQL`
 
-`PHP` `Symfony` `ReactJS` `TailwindCSS` `MySQL`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anmolvishvas&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolvishvas&layout=compact&theme=default&hide_border=true&langs_count=8" />
-
-</div>
+Full-stack cab booking platform with outstation/airport/local ride booking, admin panel, and automated WhatsApp & email notifications. **Live in production.**
 
 ---
 
-## 💼 Work Experience (highlights)
+### 🍽️ [Le Gourmet — Restaurant Platform](https://github.com/anmolvishvas/le-gourmet-final)
+> `ReactJS` · `TypeScript` · `Tailwind CSS`
 
-| Period | Role | Company |
-|--------|------|---------|
-| Jun 2025 – Apr 2026 | Full-Stack Developer (Remote) | Freelance |
-| Jan 2023 – May 2025 | Full-Stack Developer (Hybrid) | SYDEV (Mauritius) LTD |
-| Apr 2022 – Aug 2022 | Web Developer Intern | TotalEnergies, Mauritius |
-| Dec 2021 – Apr 2021 | Full-Stack Developer (Remote) | Ark Analytica Ltd |
+Responsive restaurant site with brand showcase, menu management, and a kitchen operations admin dashboard — built for a French franchise startup.
 
 ---
 
-## 🌍 Languages
+### 📅 [Gestion Congé — Leave Management System](https://github.com/anmolvishvas/gestion-conge-app)
+> `React` · `Tailwind CSS` · `PHP/Symfony` · `MySQL`
 
-🗣 **English** · **French** · **Hindi** · **Gujarati** · **Spanish** · **Malagasy**
-
-*(Yes, six — working across international teams comes naturally.)*
+Internal HR platform for a French company — approval workflows, email notifications, and centralised attendance tracking.
 
 ---
 
-## 📫 Let's connect
+## 🎓 Education
 
-I'm open to **remote and hybrid full-stack roles**. Feel free to reach out:
+| Degree | Institution | Year |
+|---|---|---|
+| **BSc (Hons) Computer Science & Systems Engineering** — *1st Class Honours* | Middlesex University, Mauritius | 2020–2023 |
+| **MCA – Master of Computer Applications** | Parul University, India | 2025–2027 |
+| **Baccalauréat Scientifique** | Lycée Français de Tananarivo, Madagascar | 2016–2019 |
 
-- 📧 [anmol23vishvas@gmail.com](mailto:anmol23vishvas@gmail.com)
-- 💼 [linkedin.com/in/anmol-vishvas](https://www.linkedin.com/in/anmol-vishvas)
-- 🌐 [Portfolio](https://portfolio.devanmol.tech/)
+---
+
+## 📜 Certifications
+
+- 🤖 How to Build Your Own Chatbot Using Python — *Great Learning Academy*
+- 🧠 Introduction to Natural Language Processing — *Great Learning Academy*
+- 🐍 The Complete Python 3 Course: Beginner to Advanced — *Udemy*
+- ☕ Java Training — *IIT Bombay (2026)*
+- 🏗️ Introduction to Software Architecture — *Simplilearn | SkillUp (2025)*
+- 🔐 Cybersecurity Essentials — *Cisco*
+- 🎨 Figma Essential Training — *LinkedIn Learning*
+
+---
+
+## 🌐 Languages
+
+🇬🇧 English · 🇫🇷 French · 🇪🇸 Spanish · 🇮🇳 Hindi · 🇮🇳 Gujarati · 🇲🇬 Malagasy
 
 ---
 
 <div align="center">
-  <sub>Built with ☕ and a lot of <code>git commit -m "fix: finally"</code></sub>
+
+📬 **[anmol23vishvas@gmail.com](mailto:anmol23vishvas@gmail.com)** · 📍 Vadodara, India · 💼 Open to remote opportunities
+
 </div>
