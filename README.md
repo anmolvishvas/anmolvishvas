@@ -4,9 +4,8 @@
 
 ### Vue.js & Python Developer · Full-Stack Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolvishvas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-vishvas/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmolvishvas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmol23vishvas@gmail.com)
 [![Location](https://img.shields.io/badge/Vadodara,_India-Remote_Ready-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](mailto:anmol23vishvas@gmail.com)
 
 </div>
